@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Michael Gamli
-  -I am a 2nd year New Computer Science Major At Miami University"s Middletown Campus
-  -I have the goal of becoming a video game programmer at EA Sports 1 day
-  -I HAve limited coding knowledge but I am eager to learn and create projects 
+  -I am a 2nd year New Computer Science Major At Miami University's Middletown Campus. I have the goal of becoming a video game programmer at EA Sports 1 day. I have limited coding knowledge but I am eager to learn and create projects 
   
 
 <!---
